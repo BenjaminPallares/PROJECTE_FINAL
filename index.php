@@ -10,6 +10,7 @@
     <div class="prueba">
         <!-- primer comentario -->
             <!-- segundo comentario -->
+        <!-- tercer comentario -->
 
         <p>Esto es una prueba</p>
     </div>
