@@ -9,6 +9,8 @@
 <body>
     <div class="prueba">
         <!-- primer comentario -->
+            <!-- segundo comentario -->
+
         <p>Esto es una prueba</p>
     </div>
 </body>
